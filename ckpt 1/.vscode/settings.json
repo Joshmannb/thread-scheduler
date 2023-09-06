@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "cooperative.h": "c",
+        "8051.h": "c"
+    }
+}
